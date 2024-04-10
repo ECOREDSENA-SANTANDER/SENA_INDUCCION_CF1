@@ -1,17 +1,18 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Contextualización SENA',
+    descripcionCurso:
+      'Conoce la entidad más querida por los colombianos, la cual funciona desde su creación en permanente alianza entre el Gobierno, los empresarios y los trabajadores, con el firme propósito de aumentar la capacidad de progreso en Colombia a través de programas de formación profesional integral.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/img-banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/banner-img1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/portada/banner-img2.png'),
       },
     ],
   },
@@ -22,41 +23,53 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
+      /*{
         nombreRuta: 'introduccion',
         icono: 'fas fa-info-circle',
         titulo: 'Introducción',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Contextualización SENA',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Misión',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Visión',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Símbolos SENA',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Himno SENA',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Organigrama general del SENA',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Dirección de formación profesional SENA',
+            hash: 't_1_6',
           },
         ],
       },
-
-      {
-        nombreRuta: 'tema2',
-        numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
-      {
+      /*{
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
@@ -82,7 +95,7 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
+      },*/
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
@@ -140,10 +153,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -153,8 +165,7 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Nombre del rol',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -164,26 +175,22 @@ export default {
         {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Andrea Paola Botello De la Rosa',
           cargo: 'Desarrollador Fullstack',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Nombre',
           cargo: 'Animador y Producción audiovisual',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Nombre',
           cargo: 'Actividad Didáctica',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -191,29 +198,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
+          nombre: 'Nombre responsable',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Jaime Hernan Tejada',
+          nombre: 'Nombre responsable',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
+          nombre: 'Nombre responsable',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Margarita Marcela Medrano',
+          nombre: 'Nombre responsable',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro de Servicios de Salud - Regional Antioquia',
-        }
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
   ],

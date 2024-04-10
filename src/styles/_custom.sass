@@ -1,19 +1,49 @@
+.banner-principal__row
+  position: relative
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: opacity1 6s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 0px
+    right: 8%
+    width: 420px
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: opacity2 6s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 0px
+    right: 3%
+    width: 430px
 
-
-@keyframes float1
+@keyframes opacity1
   0%
-    transform: translateY(20px)
-
+    opacity: 0 
   100%
-    transform: translateY(0px)
+    opacity: 1
+@keyframes opacity2
+  0%
+    opacity: 1
+  100%
+    opacity: 0    
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/temas/mini-portada.png") !important
+
+
+.bg-1
+  background-color: #CDE9BF !important
+.bg-2  
+  background-color: #FAFAFA !important
+.bg-3
+  background-color: #FFF3CF !important  
+.text-1
+  color: #006E3C  
+.text-2
+  color:  #39A900
+.lista-ul--color.color-1 li > i:first-of-type
+  color: #3BC192
+
+
+.linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  border: 2px solid #39A900
+.linea-tiempo-c__header__btn--left i, .linea-tiempo-c__header__btn--right i, .pasos-b__header__btn--left i
+  color: #39A900
