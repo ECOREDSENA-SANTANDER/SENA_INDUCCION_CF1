@@ -59,8 +59,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/V2ZTz17C7M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Historia SENA
 
 
     Separador
@@ -148,8 +148,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VCgWoplELpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Símbolos del SENA
 
 
     Separador
@@ -166,16 +166,16 @@
             p Estudiantes del SENA adelante por Colombia luchad con amor con el ánimo noble y radiante transformémosla en mundo mejor
         .row.justify-content-center.py-3(titulo="I")
           .col-md-10.col-11
-            p 
+            p De la patria el futuro destino, en las manos del joven está, el trabajo es seguro camino, que el progreso a Colombia dará.
         .row.justify-content-center.py-3(titulo="II")
           .col-md-10.col-11
-            p 
+            p En la forja del SENA se forman, hombres libres que anhelan triunfar, con la ciencia y la técnica unidas, nuevos rumbos de paz trazarán.
         .row.justify-content-center.py-3(titulo="III")
           .col-md-10.col-11
-            p 
+            p Hoy la patria nos grita sentida, ¡estudiantes del SENA triunfad! solo así lograréis en la vida, más justicia, mayor libertad.
         .row.justify-content-center.py-3(titulo="IV")
           .col-md-10.col-11
-            p 
+            p Avancemos con fuerza guerrera, ¡estudiantes con firme tesón! que la patria en nosotros espera, su pacífica revolución.
 
     h3(data-aos="fade-right") Himno del SENA
 
@@ -183,8 +183,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LqPzZSco-Ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Himno del Sena
 
 
     Separador
