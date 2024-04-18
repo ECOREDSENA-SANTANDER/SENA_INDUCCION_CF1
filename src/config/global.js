@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Contextualización SENA',
     descripcionCurso:
-      'Conoce la entidad más querida por los colombianos, la cual funciona desde su creación en permanente alianza entre el Gobierno, los empresarios y los trabajadores, con el firme propósito de aumentar la capacidad de progreso en Colombia a través de programas de formación profesional integral.',
+      'Conoce la entidad más querida por los colombianos, la cual funciona desde su creación en permanente alianza entre el Gobierno, los empresarios y los trabajadores, con el firme propósito de aumentar la capacidad de progreso en Colombia, a través de programas de formación profesional integral.',
     imagenBannerPrincipal: require('@/assets/curso/portada/img-banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

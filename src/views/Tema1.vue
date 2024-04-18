@@ -17,21 +17,21 @@
             img(src='@/assets/curso/temas/tarj1.svg' alt='')
           .tarjeta.tarjeta--azul.bg-3.row.align-items-center.me-0
             .p-3
-              p.mb-0 Personería jurídica 
+              p.mb-0 Personería jurídica.
       .col-lg-3
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tarj2.svg' alt='')
           .tarjeta.tarjeta--azul.bg-3
             .p-3
-              p.mb-0 Patrimonio propio e independiente 
+              p.mb-0 Patrimonio propio e independiente.
       .col-lg-3
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tarj3.svg' alt='')
           .tarjeta.tarjeta--azul.bg-3
             .p-3
-              p.mb-0 Autonomía administrativa 
+              p.mb-0 Autonomía administrativa.
 
     .row.mb-5(data-aos="fade-down")
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -45,7 +45,7 @@
           img(src='@/assets/curso/temas/tema1-tarj2.png' alt='')
           .tarjeta.color-acento-contenido.bg-1
             .text-center.p-4
-              p Autorizada por el Estado para invertir en la infraestructura necesaria para mejorar el desarrollo social y técnico de los trabajadores en las diferentes regiones, a través de la formación profesional integral que logra incorporarse con las metas del Gobierno nacional, mediante el cubrimiento de las necesidades específicas de recurso humano en las empresas. Por medio de la vinculación al mercado laboral –bien sea como empleado o subempleado–, con grandes oportunidades para el desarrollo empresarial, comunitario y tecnológico.
+              p Autorizada por el Estado para invertir en la infraestructura necesaria para mejorar el desarrollo social y técnico de los trabajadores en las diferentes regiones, a través de la formación profesional integral que logra incorporarse con las metas del Gobierno nacional, mediante el cubrimiento de las necesidades específicas de recurso humano en las empresas. Por medio de la vinculación al mercado laboral (bien sea como empleado o subempleado), con grandes oportunidades para el desarrollo empresarial, comunitario y tecnológico.
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1-tarj3.png' alt='')
@@ -68,14 +68,14 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1  Misión
 
-    .row.justify-content-center(data-aos="fade-down")
-      .col-lg-9.col-md-10.col-12
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1-1.png')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 El SENA está encargado de cumplir la función que le corresponde al Estado de invertir en el desarrollo social y técnico de los trabajadores colombianos, ofreciendo y ejecutando la formación profesional integral, para la incorporación y el desarrollo de las personas en actividades productivas que contribuyan al desarrollo social, económico y tecnológico del país.
+    .row
+      .col-lg-5.pe-lg-0(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema1-1.png', alt='')
+      .col-lg-7.ps-lg-0(data-aos="fade-left")
+        .bg-4.p-4.h-100.align-items-center.d-flex
+          .bg-white.p-4
+            p El SENA está encargado de cumplir la función que le corresponde al Estado de invertir en el desarrollo social y técnico de los trabajadores colombianos, ofreciendo y ejecutando la formación profesional integral, para la incorporación y el desarrollo de las personas en actividades productivas que contribuyan al desarrollo social, económico y tecnológico del país.
+            p.mb-0 
 
 
     Separador
@@ -86,9 +86,10 @@
     .row.justify-content-center
       .col-lg-8(data-aos="fade-right")
         .cajon-b.color-acento-contenido.p-3.mb-4
-          p.mb-0 En el 2020 el SENA será una 
-            span.text-1.fw-bold Entidad de clase mundial 
-            | en formación profesional integral y en el uso y apropiación de tecnología e innovación al servicio de personas y empresas; habrá contribuido decisivamente a incrementar la competitividad de Colombia a través de:
+          p.mb-0 Para el año 2026, el Servicio Nacional de Aprendizaje - SENA 
+            span.text-1.fw-bold estará a la vanguardia de la cualificación del talento humano, tanto a nivel nacional como internacional
+            |. Esto se logrará a través de la formación profesional integral, el empleo, el emprendimiento y el reconocimiento de aprendizajes previos. Nuestro objetivo es generar valor público y fortalecer la economía campesina, popular, verde y digital, siempre con un enfoque diferencial orientado a la construcción del cambio, la transformación productiva, la soberanía alimentaria y la consolidación de una paz total, materializando así la autonomía territorial, y promoviendo la justicia social, ambiental y económica.
+          
         ul.lista-ul--color.color-1
           li 
             i.fas.fa-check
@@ -131,16 +132,14 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1-3-img2.svg' alt='')
 
-    .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-9.col-md-10.col-12
-        .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema1-3-img3.svg')})`}"
-          )
-          .bloque-texto-g__texto.p-4.py-5
-            p.mb-0 El 
-              span.text-2.fw-bold logosímbolo 
-              | representa gráficamente los enfoques de la formación que impartimos en la que el individuo es el responsable de su propio proceso de aprendizaje. 
+    .row
+      .col-lg-7.ps-lg-0(data-aos="fade-left")
+        .bg-4.p-4.h-100.align-items-center.d-flex
+          .bg-white.p-4
+            p representa gráficamente los enfoques de la formación que impartimos en la que el individuo es el responsable de su propio proceso de aprendizaje. 
+            p.mb-0 
+      .col-lg-5.pe-lg-0(data-aos="fade-right")
+        img(src='@/assets/curso/temas/tema1-3-img3.svg', alt='')
 
     h3(data-aos="fade-right") Símbolos del SENA
 
@@ -157,7 +156,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4  Himno SENA
 
-    p.mb-4(data-aos="fade") Observa el vídeo de los símbolos que nos identifican.
+    p.mb-4(data-aos="fade") Observa la linea de tiempo de los símbolos que nos identifican.
 
     .tarjeta.tarjeta--gris.bg-2.p-4.mb-5(data-aos="fade-down")
       LineaTiempoC.color-primario
