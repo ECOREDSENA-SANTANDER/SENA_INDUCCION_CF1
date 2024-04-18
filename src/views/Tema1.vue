@@ -74,8 +74,7 @@
       .col-lg-7.ps-lg-0(data-aos="fade-left")
         .bg-4.p-4.h-100.align-items-center.d-flex
           .bg-white.p-4
-            p El SENA está encargado de cumplir la función que le corresponde al Estado de invertir en el desarrollo social y técnico de los trabajadores colombianos, ofreciendo y ejecutando la formación profesional integral, para la incorporación y el desarrollo de las personas en actividades productivas que contribuyan al desarrollo social, económico y tecnológico del país.
-            p.mb-0 
+            p.mb-0 El SENA está encargado de cumplir la función que le corresponde al Estado de invertir en el desarrollo social y técnico de los trabajadores colombianos, ofreciendo y ejecutando la formación profesional integral, para la incorporación y el desarrollo de las personas en actividades productivas que contribuyan al desarrollo social, económico y tecnológico del país.
 
 
     Separador
@@ -132,13 +131,14 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1-3-img2.svg' alt='')
 
-    .row
-      .col-lg-7.ps-lg-0(data-aos="fade-left")
+    .row.mb-5
+      .col-lg-7.pe-lg-0(data-aos="fade-right")
         .bg-4.p-4.h-100.align-items-center.d-flex
           .bg-white.p-4
-            p representa gráficamente los enfoques de la formación que impartimos en la que el individuo es el responsable de su propio proceso de aprendizaje. 
-            p.mb-0 
-      .col-lg-5.pe-lg-0(data-aos="fade-right")
+            p El 
+              span.text-2.fw-bold logosímbolo 
+              | representa gráficamente los enfoques de la formación que impartimos en la que el individuo es el responsable de su propio proceso de aprendizaje. 
+      .col-lg-5.ps-lg-0(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema1-3-img3.svg', alt='')
 
     h3(data-aos="fade-right") Símbolos del SENA
