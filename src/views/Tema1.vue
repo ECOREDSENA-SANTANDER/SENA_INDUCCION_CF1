@@ -143,7 +143,7 @@
 
     h3(data-aos="fade-right") Símbolos del SENA
 
-    p.mb-4(data-aos="fade") Observa el vídeo de los símbolos que nos identifican.
+    p.mb-4(data-aos="fade") A continuación, se presenta el vídeo de los símbolos que nos identifican. 
 
     figure(data-aos="fade-down")
       .video
@@ -178,7 +178,7 @@
 
     h3(data-aos="fade-right") Himno del SENA
 
-    p.mb-4(data-aos="fade") Escucha y aprende nuestro himno, escrito por el maestro Luis Alfredo Sarmiento. La música es del maestro Daniel Marles Endo.
+    p.mb-4(data-aos="fade") Conoce y aprende nuestro himno, escrito por el maestro Luis Alfredo Sarmiento. La música es del maestro Daniel Marles Endo. 
 
     figure(data-aos="fade-down")
       .video
@@ -191,7 +191,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Organigrama general del SENA
 
-    p.mb-4(data-aos="fade") En la siguiente gráfica puede observar la estructura formal que actualmente tiene el SENA para el desarrollo de sus funciones.
+    p.mb-4(data-aos="fade")     En la siguiente gráfica se presenta la estructura formal que actualmente tiene el SENA para el desarrollo de sus funciones. 
 
     figure.mb-4(data-aos="fade-down")
       img(src='@/assets/curso/temas/tema1-5-img1.svg' alt='')
