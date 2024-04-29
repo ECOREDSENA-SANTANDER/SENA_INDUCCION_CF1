@@ -80,7 +80,7 @@ export default {
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -95,7 +95,7 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },*/
+      },
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
@@ -115,32 +115,73 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Historia del SENA',
+      referencia:
+        'SENA. (7 de septiembre de 2012). La historia del SENA contada por Rodolfo Martínez Tono. [Video]. YouTube',
+      tipo: 'Video',
+      link: 'https://youtu.be/U_exqn8Khpk',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Símbolos del SENA',
+      referencia: 'SENA. (s.f.). Símbolos del SENA.  ',
+      tipo: 'Video',
+      link: 'https://youtu.be/VCgWoplELpw',
+    },
+    {
+      tema: 'Himno del SENA',
+      referencia: 'SENA. (6 de junio de 2012). Himno Nuevo. [Video]. YouTube',
+      tipo: 'Video',
+      link: 'https://youtu.be/N410esgqADc',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Aula virtual',
+      significado:
+        'entorno telemático en el cual el aprendiz tiene acceso a la red (intranet o internet) para desarrollar un proceso de aprendizaje. Permite la consulta de la documentación de estudio, el desarrollo de actividades de aprendizaje y la utilización de herramientas de interacción como foros de discusión y correo electrónico, entre otros. ',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: '<em>B-Learning</em>',
+      significado:
+        'proviene del término en idioma inglés <em>Blended Learning</em>, en español aprendizaje mixto o combinado. Este tipo de aprendizaje se caracteriza por combinar de acuerdo con las necesidades del aprendiz o del programa de formación, sesiones sincrónicas en las cuales el instructor aborda temáticas del curso. ',
+    },
+    {
+      termino: '<em>E-Learning</em>',
+      significado:
+        'roceso de enseñanza-aprendizaje que se lleva a cabo a través de internet, caracterizado por una separación física entre el instructor y el aprendiz, pero con el predominio de una comunicación tanto sincrónica como asincrónica a través de la cual se lleva a cabo una interacción didáctica continuada. Además, el aprendiz es el protagonista de su proceso de formación al tener que autogestionar su aprendizaje con el apoyo del instructor.  <br>Una de las ventajas más relevantes del e-learning es la disponibilidad de la información y contenidos de aprendizaje las 24 horas, los 7 días a la semana. Los aprendices, además de acceder a los mismos, pueden comunicarse con su instructor y compañeros de forma sincrónica o asincrónica, realizando aprendizaje altamente colaborativo y significativo, a cualquier hora y en cualquier lugar. ',
+    },
+    {
+      termino: 'FAVA',
+      significado:
+        'se refiere exclusivamente a la orientación de programas de formación en ambientes virtuales de aprendizaje, esta contempla aquellas propuestas que están diseñadas y se desarrollan dentro de un <em>software</em>.  <br>Allí se permite hacer la gestión académica y administrativa de los programas de formación, procesos como la inscripción de estudiantes, la conformación de grupos, proponer actividades de diferentes tipos, hacer la tutoría y seguimiento, aplicar la evaluación, así como comunicarse de manera sincrónica y asincrónica con los aprendices y generar reportes. <br>La FAVA se puede dar en varias modalidades, entre ellas el <em>e-learning</em> y el <em>b-learning</em>. ',
+    },
+    {
+      termino: '<em>LMS</em>',
+      significado:
+        'la necesidad de tener una FAVA efectiva y unos AVA cada vez más completos y atractivos para los aprendices, genera la emergencia de los sistemas de gestión de aprendizaje, conocidos en el idioma inglés como <em>Learning Management System</em> (LMS) y difundidos con este acrónimo en nuestro país. ',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Gros, B. (2011). Evolución y retos de la educación virtual: construyendo el e-learning del Siglo XXI. Editorial UOC. ',
+    },
+    {
+      referencia:
+        'Ministerio de Educación Nacional. (2016). Formación virtual.',
+      link: 'http://www.mineducacion.gov.co/cvn/1665/w3-article-261460.html',
+    },
+    {
+      referencia:
+        'SENA. (2015). Formación tecnopedagógica en ambientes virtuales de aprendizaje. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia.  ',
+    },
+    {
+      referencia:
+        'SENA. (2016). Instructivo para orientar el desempeño del instructor en ambientes virtuales de aprendizaje. Versión 2. Dirección de Formación Profesional. Grupo de Formación Virtual y a Distancia.  ',
+    },
+    {
+      referencia: 'SENA. (2021). Quiénes somos. SENA',
+      link: 'https://www.sena.edu.co/es-co/sena/Paginas/quienesSomos.aspx',
     },
   ],
   creditos: [
