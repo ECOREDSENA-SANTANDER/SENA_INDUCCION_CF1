@@ -59,8 +59,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/V2ZTz17C7M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Historia SENA
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/B3b7T6-h8i4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. La historia del SENA 
 
 
     Separador
@@ -147,8 +147,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/VCgWoplELpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Símbolos del SENA
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_MZRAUSIZtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Inducción - Símbolos del SENA
 
 
     Separador
@@ -182,8 +182,8 @@
 
     figure(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/LqPzZSco-Ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video. Himno del Sena
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ZejiOSVZMyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Inducción - Himno del SENA 
 
 
     Separador
