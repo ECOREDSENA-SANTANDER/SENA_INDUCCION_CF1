@@ -198,6 +198,12 @@ export default {
           cargo: 'Responsable de Línea de Producción',
           centro: 'Centro Agroturístico - Regional Santander',
         },
+        {
+          nombre: 'Olga Constanza Bermúdez Jaimes',
+          cargo: 'Responsable de Línea de Producción',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
       ],
     },
     {
@@ -225,9 +231,39 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animador y Productor Multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya ',
+          cargo: 'Locución ',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres ',
+          cargo: 'Ilustración',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete de Lengua de Señas Colombiana ',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete de Lengua de Señas Colombiana ',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Jose Eduardo Solano Rivero ',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -243,6 +279,12 @@ export default {
           nombre: 'Laura Paola Gelvez Manosalva',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Zuleidy María Ruiz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro de Formación Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
