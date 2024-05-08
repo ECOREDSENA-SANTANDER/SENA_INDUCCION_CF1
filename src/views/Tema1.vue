@@ -132,7 +132,7 @@
           h5 Figura 1. 
           span Escudo SENA.
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='La imagen presenta el escudo del Sena, integrado por los siguientes elementos:  el color rojo un círculo en piñónes que representa el sector industrial, atravesado en sentido vertical por  un caduceo en forma de aguja con cuatro líneas amarillas horizontales que representa el sector comercio y servicios y  en la mitad inferior del piñón, siete granos de café entrelazados que representan el sector primario y extractivo del país, finalmente en el centro del piñón sobresale la palabra SENA en letras negras  sobre un recuadro amarillo')
+          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='La imagen presenta el escudo del Sena, integrado por los siguientes elementos:  el color rojo un círculo en piñones que representa el sector industrial, atravesado en sentido vertical por  un caduceo en forma de aguja con cuatro líneas amarillas horizontales que representa el sector comercio y servicios y  en la mitad inferior del piñón, siete granos de café entrelazados que representan el sector primario y extractivo del país, finalmente en el centro del piñón sobresale la palabra SENA en letras negras  sobre un recuadro amarillo')
         
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. 
