@@ -124,7 +124,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3  Símbolos SENA
 
-    p.mb-4(data-aos="fade") El escudo y la bandera del SENA fueron diseñados cuando se fundó́ nuestra institución y reflejan los tres sectores económicos dentro de los cuales operamos:   
+    p.mb-4(data-aos="fade") El escudo y la bandera del SENA fueron diseñados cuando se fundó nuestra institución y reflejan los tres sectores económicos dentro de los cuales operamos:   
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-md-12.col-12
@@ -132,7 +132,7 @@
           h5 Figura 1. 
           span Escudo SENA.
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='La imagen presenta el escudo del Sena, integrado por los siguientes elementos:  el color rojo un circulo en piñones que representa el sector industrial, atravezado en sentido vertical por  un caduceo en forma de aguja con cuatro líneas amarillas horizontales que representa el sector comercio y servicios y  en la mitad inferior del piñon, siete granos de café entrelazados que representan el sector primario y extractivo del pais, finalmente en el centro del piñon sobresale la palabra SENA en letras negras  sobre un recuadro amarillo')
+          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='La imagen presenta el escudo del Sena, integrado por los siguientes elementos:  el color rojo un círculo en piñónes que representa el sector industrial, atravesado en sentido vertical por  un caduceo en forma de aguja con cuatro líneas amarillas horizontales que representa el sector comercio y servicios y  en la mitad inferior del piñón, siete granos de café entrelazados que representan el sector primario y extractivo del país, finalmente en el centro del piñón sobresale la palabra SENA en letras negras  sobre un recuadro amarillo')
         
         .titulo-sexto.color-acento-contenido
           h5 Figura 2. 
@@ -150,8 +150,8 @@
       .col-lg-5.mb-4(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 3. 
-          span Logosimbolo SENA.
-        img.w-50.m-auto(src='@/assets/curso/temas/logoSena.png', alt='El logo esta compuesto por un circulo en la parte superior, el cual simula una cabeza, en el medio se encuntra  la palabra SENA y en la parte inferior tres triangulos abiertos que simulan brazos y piernas.')
+          span Logosímbolo SENA.
+        img.w-50.m-auto(src='@/assets/curso/temas/logoSena.png', alt='El logo esta compuesto por un círculo en la parte superior, el cual simula una cabeza, en el medio se encuentra  la palabra SENA y en la parte inferior tres triangulos abiertos que simulan brazos y piernas.')
 
     h3(data-aos="fade-right") Símbolos del SENA
 

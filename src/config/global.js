@@ -168,7 +168,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Educación Nacional. (2024). Educación virtual.',
+        'Ministerio de Educación Nacional. (2024). Educación virtual o educación en línea.',
       link:
         'https://www.mineducacion.gov.co/portal/Educacion-superior/Informacion-Destacada/196492:Educacion-virtual-o-educacion-en-linea',
     },
