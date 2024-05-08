@@ -168,8 +168,9 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Educación Nacional. (2016). Formación virtual.',
-      link: 'http://www.mineducacion.gov.co/cvn/1665/w3-article-261460.html',
+        'Ministerio de Educación Nacional. (2024). Educación virtual.',
+      link:
+        'https://www.mineducacion.gov.co/portal/Educacion-superior/Informacion-Destacada/196492:Educacion-virtual-o-educacion-en-linea',
     },
     {
       referencia:
