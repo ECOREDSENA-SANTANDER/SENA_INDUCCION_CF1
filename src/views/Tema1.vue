@@ -124,22 +124,34 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3  Símbolos SENA
 
+    p.mb-4(data-aos="fade") El escudo y la bandera del SENA fueron diseñados cuando se fundó́ nuestra institución y reflejan los tres sectores económicos dentro de los cuales operamos:   
+
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-md-12.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 1. 
+          span Escudo SENA.
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='La imagen presenta el escudo del Sena, integrado por los siguientes elementos:  el color rojo un circulo en piñones que representa el sector industrial, atravezado en sentido vertical por  un caduceo en forma de aguja con cuatro líneas amarillas horizontales que representa el sector comercio y servicios y  en la mitad inferior del piñon, siete granos de café entrelazados que representan el sector primario y extractivo del pais, finalmente en el centro del piñon sobresale la palabra SENA en letras negras  sobre un recuadro amarillo')
+        
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 2. 
+          span Bandera SENA.
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1-3-img1.svg' alt='')
-        figure.mb-4
-          img(src='@/assets/curso/temas/tema1-3-img2.svg' alt='')
+          img(src='@/assets/curso/temas/tema1-3-img2.svg' alt='La imagen presenta una bandera con el escudo de la institución sobre un fondo blanco.')
 
     .row.mb-5
-      .col-lg-7.pe-lg-0(data-aos="fade-right")
+      .col-lg-7.mb-4(data-aos="fade-right")
         .bg-4.p-4.h-100.align-items-center.d-flex
           .bg-white.p-4
             p El 
               span.text-2.fw-bold logosímbolo 
               | representa gráficamente los enfoques de la formación que impartimos en la que el individuo es el responsable de su propio proceso de aprendizaje. 
-      .col-lg-5.ps-lg-0(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema1-3-img3.svg', alt='')
+      .col-lg-5.mb-4(data-aos="fade-left")
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 3. 
+          span Logosimbolo SENA.
+        img.w-50.m-auto(src='@/assets/curso/temas/logoSena.png', alt='El logo esta compuesto por un circulo en la parte superior, el cual simula una cabeza, en el medio se encuntra  la palabra SENA y en la parte inferior tres triangulos abiertos que simulan brazos y piernas.')
 
     h3(data-aos="fade-right") Símbolos del SENA
 
@@ -191,10 +203,13 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Organigrama general del SENA
 
-    p.mb-4(data-aos="fade")     En la siguiente gráfica se presenta la estructura formal que actualmente tiene el SENA para el desarrollo de sus funciones. 
+    p.mb-4(data-aos="fade") En la siguiente gráfica se presenta la estructura formal que actualmente tiene el SENA para el desarrollo de sus funciones. 
 
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 4. 
+      span Organigrama general SENA.
     figure.mb-4(data-aos="fade-down")
-      img(src='@/assets/curso/temas/tema1-5-img1.svg' alt='')
+      img(src='@/assets/curso/temas/tema1-5-img1.svg' alt=' El diagrama describe la estructura de la institución de la siguiente manera: encabezando se encuentra el consejo directivo nacional, seguido por la dirección general, la cual se apoya en la oficina de control interno, la oficina de control interno disciplinario, la oficina de comunicaciones y la oficina de sistemas; para coordinar la secretaría general, la dirección de formación profesional, la dirección de empleo, la dirección del sistema nacional de formación para el trabajo, las direcciones regionales y del distrito capital, la dirección jurídica, la dirección de planeación y direccionamiento corporativo y la dirección administrativa y financiera. De la dirección general también se desprende, con apoyo del consejo  directivo nacional, la dirección de promoción y relaciones corporativas. Por ultimo se encuentran los centros de formación profesional, los cuales son apoyados por los comités técnicos de cada centro.  ')
 
 
     Separador
@@ -206,8 +221,11 @@
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-11.col-md-12.col-12
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 5. 
+          span Dirección de formación profesional SENA
         figure.mb-4
-          img(src='@/assets/curso/temas/tema1-6-img1.svg' alt='')
+          img(src='@/assets/curso/temas/tema1-6-img1.svg' alt='El diagrama presenta la estructura de la dirección de formación, la cual se encarga de: La producción curricular, la investigación, innovación y producción académica, la formación virtual y a distancia la cual va ligada con el fomento del bienestar y liderazgo al aprendiz, la escuela de instructores Rodolfo Martínez tono, la administración educativa, la gestión y evaluación de la calidad de la formación, la gestión administrativa y los programas de fortalecimiento institucional y proyección social.')
 
 
 

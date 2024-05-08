@@ -119,19 +119,19 @@ export default {
       referencia:
         'SENA. (7 de septiembre de 2012). La historia del SENA contada por Rodolfo Martínez Tono. [Video]. YouTube',
       tipo: 'Video',
-      link: 'https://youtu.be/U_exqn8Khpk',
+      link: 'https://youtu.be/B3b7T6-h8i4',
     },
     {
       tema: 'Símbolos del SENA',
       referencia: 'SENA. (s.f.). Símbolos del SENA.  ',
       tipo: 'Video',
-      link: 'https://youtu.be/VCgWoplELpw',
+      link: 'https://youtu.be/_MZRAUSIZtQ',
     },
     {
       tema: 'Himno del SENA',
       referencia: 'SENA. (6 de junio de 2012). Himno Nuevo. [Video]. YouTube',
       tipo: 'Video',
-      link: 'https://youtu.be/N410esgqADc',
+      link: 'https://youtu.be/ZejiOSVZMyI',
     },
   ],
   glosario: [
@@ -148,7 +148,7 @@ export default {
     {
       termino: '<em>E-Learning</em>',
       significado:
-        'roceso de enseñanza-aprendizaje que se lleva a cabo a través de internet, caracterizado por una separación física entre el instructor y el aprendiz, pero con el predominio de una comunicación tanto sincrónica como asincrónica a través de la cual se lleva a cabo una interacción didáctica continuada. Además, el aprendiz es el protagonista de su proceso de formación al tener que autogestionar su aprendizaje con el apoyo del instructor.  <br>Una de las ventajas más relevantes del e-learning es la disponibilidad de la información y contenidos de aprendizaje las 24 horas, los 7 días a la semana. Los aprendices, además de acceder a los mismos, pueden comunicarse con su instructor y compañeros de forma sincrónica o asincrónica, realizando aprendizaje altamente colaborativo y significativo, a cualquier hora y en cualquier lugar. ',
+        'proceso de enseñanza-aprendizaje que se lleva a cabo a través de internet, caracterizado por una separación física entre el instructor y el aprendiz, pero con el predominio de una comunicación tanto sincrónica como asincrónica a través de la cual se lleva a cabo una interacción didáctica continuada. Además, el aprendiz es el protagonista de su proceso de formación al tener que autogestionar su aprendizaje con el apoyo del instructor.  <br>Una de las ventajas más relevantes del <em>e-learning</em> es la disponibilidad de la información y contenidos de aprendizaje las 24 horas, los 7 días a la semana. Los aprendices, además de acceder a los mismos, pueden comunicarse con su instructor y compañeros de forma sincrónica o asincrónica, realizando aprendizaje altamente colaborativo y significativo, a cualquier hora y en cualquier lugar. ',
     },
     {
       termino: 'FAVA',
